@@ -26,7 +26,7 @@ if (XRInputs.GetGripPressure(hand) > 0.5f)
     // Grip is pressed more than halfway
     // Perform grab action here
 }
-```https://www.gnu.org/licenses/gpl-3.0.en.html
+```
 
 ---
 
