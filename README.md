@@ -147,7 +147,12 @@ if (XRInputs.GetPrimaryDown(hand))
 ---
 
 # I AM UNDER THE GPL 3.0 licenses
-read about it here: https://www.gnu.org/licenses/gpl-3.0.en.html
+read about it here: 
+```csharp
+https://www.gnu.org/licenses/gpl-3.0.en.html
+```
+
+---
 
 ## Author
 KiwiVR003
