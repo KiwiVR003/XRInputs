@@ -151,6 +151,7 @@ read about it here: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ## Author
 KiwiVR003
+
 Namespace: KiwiVR.XRInputs  
 
 For more VR scripts and Unity examples, see the GitHub repository.
